@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi👋, I am Shreedesh Niroula
+Hi there! My name is Shreedesh Niroula, and I'm a game developer with 3 years of experience. I'm passionate about creating fun and immersive gaming experiences that keep players engaged and coming back for more.
+I specialize in developing games using popular game engines such as Unity and I'm well-versed in programming languages such as C# and typeScript.
+I'm always exploring new technologies and techniques to improve my skills and take my game development abilities to the next level.
 
 
 ## 🌐 Socials:
