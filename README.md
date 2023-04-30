@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreedesh Niroula</h1>
 <h3 align="center">Developer</h3>
 
-- 📫 How to reach me **nshreedes@gmail.com**
+- 📫 How to reach me **nshreedesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
